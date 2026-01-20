@@ -1,3 +1,15 @@
+/*
+Problem: Contains Duplicate
+Link: https://leetcode.com/problems/contains-duplicate/
+Topic: Arrays
+
+Approach:
+- Use nested loops
+- Compare every pair
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
 #include<iostream>
 #include<vector>
 using namespace std;
