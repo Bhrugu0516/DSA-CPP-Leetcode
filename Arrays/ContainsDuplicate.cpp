@@ -1,14 +1,15 @@
 /*
 Problem: Contains Duplicate
 Link: https://leetcode.com/problems/contains-duplicate/
-Topic: Arrays
+Topic: Arrays / Hashing
 
 Approach:
-- Use nested loops
-- Compare every pair
+- Use an unordered_set to store elements seen so far
+- Traverse the array once
+- If an element already exists in the set, a duplicate is found
 
-Time Complexity: O(n^2)
-Space Complexity: O(1)
+Time Complexity: O(n)
+Space Complexity: O(n)
 */
 
 #include <bits/stdc++.h>
@@ -17,13 +18,12 @@ using namespace std;
 class Solution{
 public:
         bool ContainsDup(vector<int>& nums){
-            int n=nums.size();
-            for(int i=0;i<n;i++){
-                for(int j=i+1;j<n;j++){
-                    if (nums[i]==nums[j]){
-                        return true;
-                    }
+            unordered_set<int> st;
+            for(int x:nums){
+                if(st.count(x)){
+                    return true;
                 }
+                st.insert(x);
             }
             return false;
         }
