@@ -1,0 +1,23 @@
+# DSA with C++ – LeetCode
+
+Daily DSA practice using C++ with problems solved on LeetCode and tracked on GitHub.
+
+---
+
+## Progress
+
+### Day 1
+- Two Sum — Brute Force (Arrays)
+
+### Day 2
+- Contains Duplicate — Hashing (`unordered_set`)
+
+### Day 3
+- Maximum Subarray — Kadane’s Algorithm
+- Valid Anagram — Hash Map
+
+### Day 4
+- Valid Anagram — Frequency Array (O(1) space)
+
+### Day 5
+- Two Pointers Pattern 
