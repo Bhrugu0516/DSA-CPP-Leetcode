@@ -1,11 +1,11 @@
 /*
-Problem: Contains Duplicate
-Link: https://leetcode.com/problems/contains-duplicate/
+Problem: Two Sum
+Link: https://leetcode.com/problems/two-sum/
 Topic: Arrays
 
 Approach:
-- Use nested loops
-- Compare every pair
+- Use brute force
+- Check all possible pairs
 
 Time Complexity: O(n^2)
 Space Complexity: O(1)
