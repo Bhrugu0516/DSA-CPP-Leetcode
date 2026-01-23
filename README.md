@@ -20,4 +20,5 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 - Valid Anagram — Frequency Array (O(1) space)
 
 ### Day 5
-- Two Pointers Pattern 
+- Remove Duplicates from Sorted Array — Two Pointers
+- Squares of a Sorted Array — Two Pointers
