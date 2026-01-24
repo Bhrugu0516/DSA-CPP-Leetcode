@@ -22,3 +22,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 5
 - Remove Duplicates from Sorted Array — Two Pointers
 - Squares of a Sorted Array — Two Pointers
+
+### Day 6
+- Sliding Window Pattern — Two Pointers + Hashing (Pattern Template)
