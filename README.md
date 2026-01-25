@@ -25,3 +25,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 6
 - Sliding Window Pattern — Two Pointers + Hashing (Pattern Template)
+
+### Day 7
+- Sliding Window — At Most K Distinct (Frequency Map Pattern)
