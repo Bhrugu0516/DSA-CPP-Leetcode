@@ -36,8 +36,9 @@ public:
                 freq[s[left]]--;
                 if(freq[s[left]]==0){
                     freq.erase(s[left]);
-                    left++;
+                    
                 }
+                left++;
             }
             ans=max(ans,right-left+1);
         }
