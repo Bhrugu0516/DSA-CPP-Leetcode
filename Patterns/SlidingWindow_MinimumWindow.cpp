@@ -50,6 +50,8 @@ public:
                 }
                 char d=s[left];
                 window[d]--;
+                 if (need.count(d) && window[d] < need[d])
+                    formed--;
                 left++;
             }
             
