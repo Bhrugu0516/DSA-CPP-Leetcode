@@ -28,3 +28,9 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 7
 - Sliding Window — At Most K Distinct (Frequency Map Pattern)
+
+### Day 8
+- Sliding Window — Exactly K Distinct (Subtraction Trick)
+
+### Day 9
+- Sliding Window — Minimum Window Substring (Frequency + Formed Logic)
