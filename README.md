@@ -34,3 +34,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 9
 - Sliding Window — Minimum Window Substring (Frequency + Formed Logic)
+
+### Day 10
+- Arrays — Missing Number (math-based approach)
