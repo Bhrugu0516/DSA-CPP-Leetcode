@@ -37,3 +37,8 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 10
 - Arrays — Missing Number (math-based approach)
+
+### Day 11
+- Arrays — Majority Element (frequency)
+- Arrays — Best Time to Buy and Sell Stock (greedy)
+- Arrays — Single Number (XOR)
