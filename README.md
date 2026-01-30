@@ -42,3 +42,8 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 - Arrays — Majority Element (frequency)
 - Arrays — Best Time to Buy and Sell Stock (greedy)
 - Arrays — Single Number (XOR)
+
+### Day 12
+- Arrays — Find Pivot Index (prefix sum)
+- Arrays — Intersection of Two Arrays II (hashing)
+- Arrays — Range Sum Query – Immutable (precomputation)
