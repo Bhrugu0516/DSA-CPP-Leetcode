@@ -47,3 +47,10 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 - Arrays — Find Pivot Index (prefix sum)
 - Arrays — Intersection of Two Arrays II (hashing)
 - Arrays — Range Sum Query – Immutable (precomputation)
+
+### Day 13
+- Arrays — Subarray Sum Equals K (prefix sum + hashmap)
+- Arrays — Product of Array Except Self (prefix & suffix product)
+
+### Day 14
+- Arrays — Longest Consecutive Sequence (hash set)
