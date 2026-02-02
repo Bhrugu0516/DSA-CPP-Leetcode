@@ -54,3 +54,8 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 14
 - Arrays — Longest Consecutive Sequence (hash set)
+
+### Day 15
+- Arrays — Two Sum II (two pointers)
+- Arrays — Container With Most Water (two pointers, greedy)
+- Strings — Isomorphic Strings (hashing, bijection)
