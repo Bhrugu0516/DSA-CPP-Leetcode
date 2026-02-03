@@ -59,3 +59,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 - Arrays — Two Sum II (two pointers)
 - Arrays — Container With Most Water (two pointers, greedy)
 - Strings — Isomorphic Strings (hashing, bijection)
+
+### Day 16
+- Stack — Valid Parentheses (stack intro, matching pairs)
+- Linked List — Merge Two Sorted Lists (pointer manipulation)
