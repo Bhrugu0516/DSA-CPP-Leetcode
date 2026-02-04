@@ -63,3 +63,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 16
 - Stack — Valid Parentheses (stack intro, matching pairs)
 - Linked List — Merge Two Sorted Lists (pointer manipulation)
+
+### Day 17
+- Stack — Implement Stack using Queues (stack behavior via queue)
+- Stack — Next Greater Element I (monotonic stack)
