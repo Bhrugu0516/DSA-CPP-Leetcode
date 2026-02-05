@@ -67,3 +67,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 17
 - Stack — Implement Stack using Queues (stack behavior via queue)
 - Stack — Next Greater Element I (monotonic stack)
+
+### Day 18
+- Stack — Min Stack (design stack with O(1) getMin)
