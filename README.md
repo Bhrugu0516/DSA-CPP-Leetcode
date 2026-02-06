@@ -70,3 +70,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 18
 - Stack — Min Stack (design stack with O(1) getMin)
+
+### Day 19
+- Sliding Window — Maximum Average Subarray I
+- Stack — Daily Temperatures
