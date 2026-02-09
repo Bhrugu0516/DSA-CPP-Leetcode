@@ -74,3 +74,11 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 19
 - Sliding Window — Maximum Average Subarray I
 - Stack — Daily Temperatures
+
+### Day 20
+- Sliding Window — Max Vowels in Substring
+- Sliding Window — Fruits Into Baskets
+
+### Day 21
+- Sliding Window — Subarray Product Less Than K
+- Sliding Window — Max Consecutive Ones III
