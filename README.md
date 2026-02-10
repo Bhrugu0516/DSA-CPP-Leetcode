@@ -82,3 +82,8 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 21
 - Sliding Window — Subarray Product Less Than K
 - Sliding Window — Max Consecutive Ones III
+
+### Day 22
+- Binary Search — Classic Binary Search
+- Binary Search — First Bad Version
+- Binary Search — Search in Rotated Sorted Array
