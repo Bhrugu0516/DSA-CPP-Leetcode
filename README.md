@@ -87,3 +87,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 - Binary Search — Classic Binary Search
 - Binary Search — First Bad Version
 - Binary Search — Search in Rotated Sorted Array
+
+### Day 23
+- Binary Search on Answer — Koko Eating Bananas
+- Binary Search on Answer — Capacity To Ship Packages Within D Days
