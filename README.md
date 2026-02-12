@@ -91,3 +91,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 23
 - Binary Search on Answer — Koko Eating Bananas
 - Binary Search on Answer — Capacity To Ship Packages Within D Days
+
+### Day 24
+- Binary Search on Answer — Smallest Divisor Given a Threshold
