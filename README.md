@@ -94,3 +94,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 24
 - Binary Search on Answer — Smallest Divisor Given a Threshold
+
+### Day 25
+- Binary Search — Find Minimum in Rotated Sorted Array
+- Binary Search — Search Insert Position
