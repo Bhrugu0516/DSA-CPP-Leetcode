@@ -98,3 +98,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 25
 - Binary Search — Find Minimum in Rotated Sorted Array
 - Binary Search — Search Insert Position
+
+### Day 26
+- Heap — Kth Largest Element in an Array
