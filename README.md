@@ -101,3 +101,6 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 26
 - Heap — Kth Largest Element in an Array
+
+### Day 27
+- Heap — Last Stone Weight
