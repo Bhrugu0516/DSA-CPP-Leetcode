@@ -104,3 +104,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 
 ### Day 27
 - Heap — Last Stone Weight
+
+### Day 28
+- Heap — Top K Frequent Elements
+- Heap — K Closest Points to Origin
