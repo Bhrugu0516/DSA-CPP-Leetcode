@@ -108,3 +108,7 @@ Daily DSA practice using C++ with problems solved on LeetCode and tracked on Git
 ### Day 28
 - Heap — Top K Frequent Elements
 - Heap — K Closest Points to Origin
+
+### Day 29
+- Linked List — Reverse Linked List
+- Linked List — Linked List Cycle
